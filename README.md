@@ -1,0 +1,2 @@
+# validator
+这是一个springboot整合hibernate validator的小项目，其中有包括定义全局异常、分组验证等功能，供大家学习使用
